@@ -132,6 +132,7 @@
 
     <Button
         android:id="@+id/btn_calculate"
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Calculate Harb Value"
@@ -154,9 +155,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="developed by aakash"
+        android:text="Developer : Aakash"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Development Status : Under development"
+        />
 
 
 
