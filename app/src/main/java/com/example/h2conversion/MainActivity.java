@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private EditText etTm, etIm, etAsh, egiit tFourthInputValue;
+    private EditText etTm, etIm, etAsh, etFourthInputValue;
     private Spinner spinnerFourthInput;
     private Button btnCalculate, btnClear;
     private TextView tvResult;
