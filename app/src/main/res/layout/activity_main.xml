@@ -136,6 +136,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Calculate Harb Value"
+        android:textColorLink="#303F9F"
         android:layout_marginBottom="16dp" />
 
     <TextView
@@ -158,11 +159,6 @@
         android:text="Developer : Aakash"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true" />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Development Status : Under development"
-        />
 
 
 
